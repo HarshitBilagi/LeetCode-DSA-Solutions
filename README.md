@@ -1,2 +1,4 @@
 # Blind-75-Solutions
-A GitHub repository that includes C++ solutions for the "Blind 75" DSA LeetCode problems, a curated list of challenges designed to help you master the most asked data structures and algorithms questions in interviews. Explore this resource to enhance problem-solving skills and prepare for coding interviews efficiently.
+A GitHub repository that includes C++ solutions of the "Blind 75" DSA LeetCode problems, a curated list of challenges designed to help you master the most asked data structures and algorithms questions in interviews. Explore this resource to enhance problem-solving skills and prepare for coding interviews efficiently.
+
+With 75 questions, this also includes solutions of other important problems to be solved for interviews.
